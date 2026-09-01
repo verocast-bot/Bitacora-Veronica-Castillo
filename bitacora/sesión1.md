@@ -1,8 +1,8 @@
 # S01 - Identidad del equipo y desafío
 
-**Fecha:** [25-08-2026]  
-**Participantes:** [Veronica Castillo, Miguel Becerra, Carolina Cornejo, Alexis Pérez]  
-**Lugar o modalidad:** [Universidad mayor, sede Manuel Montt / presencial ]
+**Fecha:** 25-08-2026  
+**Participantes:** Veronica Castillo, Miguel Becerra, Carolina Cornejo, Alexis Pérez  
+**Lugar o modalidad:** Universidad mayor, sede Manuel Montt / presencial 
 
 ## Objetivo de la sesión
 
@@ -14,17 +14,20 @@ Construir la identidad del equipo, acordar su forma de trabajo y realizar una pr
 
 ## Nombre del equipo
 
-**Nombre:** [M.I.R.O.N]
+**Nombre:** MIRON
 
 **¿Por qué lo elegimos?**  
-[nose.]
+[nose!!!]
 
 ## Integrantes y roles iniciales
 
 | Integrante | Carrera o especialidad | Rol inicial | Aporte esperado |
 |---|---|---|---|
-| [Nombre] | [Carrera] | [Rol] | [Aporte] |
-| [Nombre] | [Carrera] | [Rol] | [Aporte] |
+| Verónica Castillo | Ingeniería civil industrial | Encargada de codificación | [Aporte] |
+|Miguel Becerra | Ingeniería civil  industrial | Investigador  | [Aporte] |
+|Carolina Cornejo | Ingeniería civil  industrial |Administradora  | [Aporte] |
+|Alexis Pérez | Ingeniería civil electrónica  | Encargado de ensamblaje  | [Aporte] |
+
 
 ## Valores del equipo
 
