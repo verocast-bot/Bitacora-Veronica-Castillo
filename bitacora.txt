@@ -1,1 +1,12 @@
-
+Compromiso y Normas del equipo
+1) Responsabilida Individual: Cada integrante del grupo es responsable de las tareas asignadas en el tablero de gestion y debe completarlo dentro del plazo acordado 
+2) Alertas tempranas: Si un integrante preve que no podra cumplir con una fecha establecida debe informar y notificar cual es el motivo por el cual no puede cumplirlo 
+#Comunicacion Clara y respetuosa 
+1) Transparencia: mantener una comunicacion fluida a travez de los canales acordados para el proyecto 
+2) Resolución de problemas: Exponer dudas, bloqueos tecnicos o desacuerdos con respecto, empatia y enfoque constructivo para llegar a consenso rapido
+# Puntualidad y Coordinación 
+1) Reuniones de sincronización: Respetar los horarios fijados para reuniones de coordinación, llegando puntualmente y con los avances listos para la revision. 
+2) Hitos de entrega: Priorizar la integridad y revision del codigo y documentos antes de los plazos de entrega 
+# Integridad académica y Ética 
+1) Originalidad: Todo el código, diseño y documentación desarrollados deben ser originales o debidamente citados si provienen de fuentes externas o bibliográficas de terceros.
+2) Tolerancia cero de plagio: Queda estrictamente prohibida la copia no atribuida de código o informes. 
