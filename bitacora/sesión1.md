@@ -17,7 +17,7 @@ Construir la identidad del equipo, acordar su forma de trabajo y realizar una pr
 **Nombre:** MIRON
 
 **¿Por qué lo elegimos?**  
-[nose!!!]
+Era el proyecto que sentimos que era el más apto para nosotros considerando nuestras capacidades y conocimientos.
 
 ## Integrantes y roles iniciales
 
@@ -51,7 +51,7 @@ Construir la identidad del equipo, acordar su forma de trabajo y realizar una pr
 
 ## Primera definición del desafío
 
-[¿Cómo entiende actualmente el equipo el desafío?]
+Desarrollar un sistema de monitoreo que estime ocupación de zonas Cowork, que trasparente la información y lo guarde en su sistema para futuros indicadores y estadísticas históricas.
 
 ### Lo que sabemos
 
