@@ -1,0 +1,27 @@
+// Nombre del equipo: MIRÓN
+// Integrantes del equipo: Verónica Castillo, Miguel Becerra, Carolina Cornejo y Alexis Peréz.
+
+// Valores del equipo:
+// Consideramos importantes la comunicación, la coordinación y el respeto entre compañeros.
+// Buscamos mantener una buena organización, respetando los tiempos y responsabilidades de cada integrante.
+// También valoramos el compromiso con el equipo y el cumplimiento de los objetivos establecidos.
+
+// Normas:
+// 1. Cada integrante debe cumplir con las tareas que le sean asignadas dentro del plazo acordado,
+//    responsabilizándose por su parte del trabajo y avisando con anticipación si presenta algún inconveniente.
+// 2. Mantener una comunicación clara, respetuosa y constante dentro del grupo, especialmente cuando
+//    existan dudas, problemas o cambios que puedan afectar el trabajo de los demás integrantes.
+// 3. Respetar los horarios establecidos para las reuniones, instancias de coordinación y fechas de entrega,
+//    procurando mantener una buena organización del tiempo.
+// 4. Apoyar a los demás integrantes cuando sea necesario, buscando soluciones en conjunto ante dificultades
+//    y evitando que los problemas individuales afecten el cumplimiento de los objetivos del equipo.
+// 5. Tomar las decisiones importantes de manera conjunta, considerando las opiniones y propuestas de todos
+//    los integrantes del equipo.
+// 6. Mantener una conducta ética y responsable, evitando el plagio y la copia, respetando la autoría de las 
+//    fuentes y citando correctamente la información utilizada en el desarrollo de los trabajos.
+
+// Definición del desafío: Desarrollar un sistema de monitoreo que estime ocupación de zonas Cowork, que 
+// trasparente la información y lo guarde en su sistema para futuros indicadores y estadísticas históricas.
+
+// Declaración de Compromiso: 
+
