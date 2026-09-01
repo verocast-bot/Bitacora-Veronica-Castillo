@@ -1,8 +1,8 @@
 # S01 - Identidad del equipo y desafío
 
-**Fecha:** [dd-mm-aaaa]  
-**Participantes:** [Nombres]  
-**Lugar o modalidad:** [Lugar / presencial / en línea]
+**Fecha:** [25-08-2026]  
+**Participantes:** [Veronica Castillo, Miguel Becerra, Carolina Cornejo, Alexis Pérez]  
+**Lugar o modalidad:** [Universidad mayor, sede Manuel Montt / presencial ]
 
 ## Objetivo de la sesión
 
@@ -14,10 +14,10 @@ Construir la identidad del equipo, acordar su forma de trabajo y realizar una pr
 
 ## Nombre del equipo
 
-**Nombre:** [Nombre del equipo]
+**Nombre:** [M.I.R.O.N]
 
 **¿Por qué lo elegimos?**  
-[Explicación breve.]
+[nose.]
 
 ## Integrantes y roles iniciales
 
