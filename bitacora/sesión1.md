@@ -87,7 +87,7 @@ Desarrollar durante las próximas 5 semanas un prototipo funcional de MIRON capa
 |---|---|---|---|
 | Verónica | Objetivo personal: Subir bitácora en Github y averiguar modelos de código utiles para el prototipo para el 31 de Agosto | Este repositorio | 31/08/26 |
 | Miguel | Ir a terreno y analizar en donde se podría instalar el proyecto para el 02 de Sept | [Evidencia] | Programado para el 02 de Sept |
-| [Nombre] | [Compromiso] | [Evidencia] | [Fecha] |
+| [Alexis | crear prototipo funcional  | [Evidencia] | [Fecha] |
 | [Nombre] | [Compromiso] | [Evidencia] | [Fecha] |
 
 ## Acuerdos y tareas
