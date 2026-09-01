@@ -31,10 +31,12 @@ Era el proyecto que sentimos que era el más apto para nosotros considerando nue
 
 ## Valores del equipo
 
-- [Valor 1]
-- [Valor 2]
-- [Valor 3]
-
+- Comunicación.
+- Empatía.
+- Respeto.
+- Responsabilidad.
+- Equidad.
+- 
 ## Normas y contrato de funcionamiento
 
 1. Responsabilida Individual: Cada integrante del grupo es responsable de las tareas asignadas en el tablero de gestion y debe completarlo dentro del plazo acordado 
@@ -55,18 +57,25 @@ Desarrollar un sistema de monitoreo que estime ocupación de zonas Cowork, que t
 
 ### Lo que sabemos
 
-- [Evidencia o antecedente 1]
-- [Evidencia o antecedente 2]
+- Existe desinformacion sobre los espacios disponibles.
+- La falta de informacion puede afectar en la experiencia del usuario. 
+- La falta de informacion puede afectar en el uso de los espacios. 
 
 ### Lo que todavía no sabemos
 
-- [Pregunta 1]
-- [Pregunta 2]
+- Cuantas personas diariamente utilizan los espacios. 
+- Cuales son los horarios con mayor demanda. 
+- Que medios de informacion utilizan los usuarios 
+- Que tipo de usuario utiliza mas el cowork y quienes menos. 
+- Que tan frecuente ocurre la saturación. 
+- El sistema actual que utilizan.
+- Tipo de área y modelos que ocupan.
 
 ### Supuestos que debemos comprobar
 
-- [Supuesto 1]
-- [Supuesto 2]
+- Esta desinformación afecta al uso optimo de los espacios.
+- Desanima a los usuarios a hacer uso de las áreas.
+- La poca información no permite cerciorar si es un problema de espacio o mal administración.
 
 ## Objetivo SMART del equipo
 
@@ -76,6 +85,8 @@ Desarrollar un sistema de monitoreo que estime ocupación de zonas Cowork, que t
 
 | Integrante | Compromiso | Evidencia de cumplimiento | Fecha |
 |---|---|---|---|
+| Verónica | Objetivo personal: Subir bitácora en Github y averiguar modelos de código utiles para el prototipo para el 31 de Agosto | Este repositorio | 31/08/26 |
+| Miguel | Ir a terreno y analizar en donde se podría instalar el proyecto para el 02 de Sept | [Evidencia] | Programado para el 02 de Sept |
 | [Nombre] | [Compromiso] | [Evidencia] | [Fecha] |
 | [Nombre] | [Compromiso] | [Evidencia] | [Fecha] |
 
