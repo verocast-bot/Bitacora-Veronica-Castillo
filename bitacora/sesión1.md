@@ -36,7 +36,7 @@ Era el proyecto que sentimos que era el más apto para nosotros considerando nue
 - Respeto.
 - Responsabilidad.
 - Equidad.
-- 
+  
 ## Normas y contrato de funcionamiento
 
 1. Responsabilida Individual: Cada integrante del grupo es responsable de las tareas asignadas en el tablero de gestion y debe completarlo dentro del plazo acordado 
@@ -79,31 +79,33 @@ Desarrollar un sistema de monitoreo que estime ocupación de zonas Cowork, que t
 
 ## Objetivo SMART del equipo
 
-Desarrollar durante las próximas 5 semanas un prototipo funcional de MIRON capaz de detectar y registrar en tiempo real el estado de ocupación de 4 puestos de trabajo del área piloto del Cowork Hub Providencia????
+Desarrollar y validar, a más tardar el 17 de noviembre de 2026, un prototipo funcional de MIRON capaz de detectar y registrar en tiempo real el estado de ocupación de los puestos de trabajo del área piloto del Cowork Hub Providencia, mediante la realización de pruebas iniciales de funcionamiento.
 
 ## Compromisos individuales SMART
 
 | Integrante | Compromiso | Evidencia de cumplimiento | Fecha |
 |---|---|---|---|
 | Verónica | Objetivo personal: Subir bitácora en Github y averiguar modelos de código utiles para el prototipo para el 31 de Agosto | Este repositorio | 31/08/26 |
-| Miguel | Ir a terreno y analizar en donde se podría instalar el proyecto para el 02 de Sept | [Evidencia] | Programado para el 02 de Sept |
-| Alexis | crear prototipo funcional  | [Evidencia] | [Fecha] |
-| Carolina |hacer contrato | ppt ya hecho | 31/08/2026 |
+| Miguel | Ir a terreno y registrar información útil para el proyecto para el 02 de Sept | [Evidencia] | Programado para el 02 de Sept |
+| Alexis | Crear prototipo funcional a través de diversos programas para el 15 de Sept | [Evidencia] | [Fecha] |
+| Carolina |Hacer contrato grupal para el 31 de Agosto | Adjunto en el Github (Carpeta contrato) | 31/08/2026 |
 
 ## Acuerdos y tareas
 
 | Tarea | Responsable(s) | Fecha límite | Estado |
 |---|---|---|---|
-| [Tarea] | [Nombre] | [Fecha] | Pendiente |
-| [Tarea] | [Nombre] | [Fecha] | Pendiente |
+| Entrevistar y recopilar información | Miguel | 02/09 | Pendiente |
+| Realización de código y adaptación a necesidades | Verónica | 22/09 | Pendiente |
+| Diseño base de prototipo | Alexis | 29/09 | Pendiente |
+| Registrar avances y diseñar presentaciones | Carolina | 17/11 | En constante avance |
 
 ## Reflexión breve
 
 **¿Qué fue fácil?**  
-[Respuesta.]
+Saber que son los problemas de nuestro proyecto, reconocer que sabemos y lo que no.
 
 **¿Qué fue difícil o generó desacuerdo?**  
-[Respuesta.]
+El poder generar el acuerdo, si bien, no hubo desacuerdo, nunca habíamos establecido algo asi.
 
 **¿Qué necesitamos resolver en la próxima sesión?**  
-[Respuesta.]
+Poder hacer un plan paso a paso e ir cumpliendo los plazos.
