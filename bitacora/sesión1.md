@@ -79,7 +79,7 @@ Desarrollar un sistema de monitoreo que estime ocupación de zonas Cowork, que t
 
 ## Objetivo SMART del equipo
 
-Desarrollar durante las próximas 5 semanas un prototipo funcional de MIRON capaz de detectar y registrar en tiempo real el estado de ocupación de 4 puestos de trabajo del área piloto del Cowork Hub Providencia
+Desarrollar durante las próximas 5 semanas un prototipo funcional de MIRON capaz de detectar y registrar en tiempo real el estado de ocupación de 4 puestos de trabajo del área piloto del Cowork Hub Providencia????
 
 ## Compromisos individuales SMART
 
