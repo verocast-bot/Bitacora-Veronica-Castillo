@@ -37,12 +37,17 @@ Construir la identidad del equipo, acordar su forma de trabajo y realizar una pr
 
 ## Normas y contrato de funcionamiento
 
-1. [Canal y frecuencia de comunicación]
-2. [Puntualidad y asistencia]
-3. [Distribución y seguimiento de tareas]
-4. [Forma de tomar decisiones]
-5. [Forma de resolver conflictos]
-6. [Responsabilidad de actualizar GitHub]
+1. Responsabilida Individual: Cada integrante del grupo es responsable de las tareas asignadas en el tablero de gestion y debe completarlo dentro del plazo acordado 
+2. Alertas tempranas: Si un integrante preve que no podra cumplir con una fecha establecida debe informar y notificar cual es el motivo por el cual no puede cumplirlo 
+3. Comunicacion Clara y respetuosa:
+   - Transparencia: mantener una comunicacion fluida a travez de los canales acordados para el proyecto
+   - Resolución de problemas: Exponer dudas, bloqueos tecnicos o desacuerdos con respecto, empatia y enfoque constructivo para llegar a consenso rapido
+4. Puntualidad y Coordinación
+   - Reuniones de sincronización: Respetar los horarios fijados para reuniones de coordinación, llegando puntualmente y con los avances listos para la revision.
+   - Hitos de entrega: Priorizar la integridad y revision del codigo y documentos antes de los plazos de entrega 
+5. Integridad académica y Ética:
+   - Originalidad: Todo el código, diseño y documentación desarrollados deben ser originales o debidamente citados si provienen de fuentes externas o bibliográficas de terceros.
+   - Tolerancia cero de plagio: Queda estrictamente prohibida la copia no atribuida de código o informes. 
 
 ## Primera definición del desafío
 
