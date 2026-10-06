@@ -4,3 +4,4 @@ A partir de este análisis, se definieron los objetivos SMART, procurando que fu
 
 Posteriormente, se determinaron los roles y responsabilidades de cada integrante del equipo, con el fin de organizar el trabajo y facilitar la distribución de las tareas. Finalmente, se creó un repositorio en GitHub como herramienta de apoyo para registrar y respaldar semanalmente los avances realizados, permitiendo mantener un seguimiento del desarrollo del proyecto y facilitar la colaboración entre los integrantes.
 
+Además, se realizó una salida terreno por parte de uno de los integrantes, conociendo más el sistema que se utiliza y como es el ambiente.
