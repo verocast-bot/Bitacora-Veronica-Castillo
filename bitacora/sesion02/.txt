@@ -1,1 +1,6 @@
+Durante el período de clases se desarrolló una matriz de análisis con el propósito de comprender la complejidad del proyecto seleccionado. Para ello, se identificaron palabras clave relacionadas con la problemática, los principales elementos involucrados y las personas o grupos que podrían verse afectados por el proyecto.
+
+A partir de este análisis, se definieron los objetivos SMART, procurando que fueran específicos, medibles, alcanzables, relevantes y establecidos dentro de un período determinado. Asimismo, se estableció el objetivo general del proyecto, permitiendo orientar las actividades y decisiones del equipo hacia un propósito común.
+
+Posteriormente, se determinaron los roles y responsabilidades de cada integrante del equipo, con el fin de organizar el trabajo y facilitar la distribución de las tareas. Finalmente, se creó un repositorio en GitHub como herramienta de apoyo para registrar y respaldar semanalmente los avances realizados, permitiendo mantener un seguimiento del desarrollo del proyecto y facilitar la colaboración entre los integrantes.
 
