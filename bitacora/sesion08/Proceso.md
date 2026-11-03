@@ -25,3 +25,9 @@
 - **Permisos:** Utilizar los correos electrónicos de los integrantes del equipo para registrarse y acceder a las aplicaciones o plataformas necesarias para el desarrollo de la aplicación.
 - **Datos:** Realizar pruebas internas y con otros equipos para comprobar el correcto registro de los datos y horarios de reserva.
 - **Conflictos de equipo:** Coordinar los horarios de trabajo, mantener una comunicación constante y unificar el código desarrollado por los integrantes para evitar incompatibilidades.
+
+## Actividad complementaria en clases
+
+Durante la clase, se realiza una actividad grupal que consiste en construir la torre más alta posible utilizando fideos y cinta adhesiva (masking tape), procurando que la estructura sea capaz de sostener un marshmallow en la parte superior.
+
+**Objetivo:** Fomentar el trabajo en equipo, la creatividad, la planificación y la resolución de problemas mediante la construcción de una estructura estable.
